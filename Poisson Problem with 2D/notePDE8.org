@@ -1,0 +1,6 @@
+* PDE 8 FEM 2D
+  - [X] Download mesh.dat
+  - [X] Read the mesh file (+1 incr) // Just change the file
+  - [X] Calculate the left hand side
+  - [X] Calculate the right hand side
+  - [X] Plot the solution
